@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="sidereal-prototype" name="openclose.SquareTest" tests="4" failures="0" timestamp="18 May 2011 04:04:52 GMT" time="0.389" errors="0">
+  <testcase name="testSquareOrderVsCircle" time="0.06" classname="openclose.SquareTest"/>
+  <testcase name="testSquareOrderVsNull" time="0.038" classname="openclose.SquareTest"/>
+  <testcase name="testSquareOrderVsSquare" time="0.039" classname="openclose.SquareTest"/>
+  <testcase name="testSquareOrderingVsObject" time="0.039" classname="openclose.SquareTest"/>
+</testsuite>
